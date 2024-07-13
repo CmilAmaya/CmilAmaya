@@ -1,4 +1,5 @@
-# Welcome to my Profile! 👋
+<h1 align="center"> Welcome to my Profile! 👋</h1>
+
 
 Hello, my name is Camila! 👨‍💻 Welcome to my GitHub profile. Here you will find a collection of projects, contributions, and ideas that reflect my passion for programming and technology.
 
