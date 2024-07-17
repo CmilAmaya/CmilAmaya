@@ -30,6 +30,6 @@ Hello, my name is Camila! 👨‍💻 Welcome to my GitHub profile. Here you wil
 ## Let's Connect!
 Explore my projects, contributions, and follow my learning journey. Whether you're interested in collaborating, exchanging ideas, or simply having a chat, feel free to reach out. Let's grow together! 🚀
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CmilAmaya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CmilAmaya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CmilAmaya&color=ff0077)
