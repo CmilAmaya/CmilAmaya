@@ -1,37 +1,109 @@
-<h1 align="center"> Welcome to my Profile! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&color=FFFFFF&lines=Welcome+to+my+profile+🌸;DevOps+Engineer+%7C+SRE;Observability;+Chaos+Engineering" />
+</h1>
 
+---
 
-Hello, my name is Camila! 👨‍💻 Welcome to my GitHub profile. Here you will find a collection of projects, contributions, and ideas that reflect my passion for programming and technology.
+## 👩‍💻 About Me  
 
-## About me 
-- 🎓 I am currently studying Systems and Computer Engineering at **Universidad Nacional de Colombia**
-- 👩‍💻 Passionate about software development and cloud computing.
-- ☁️ I'm currently preparing for AWS certifications.
+Hello, I'm Camila, a **DevOps Engineer** focused on building scalable, observable, and resilient systems.
 
-## Languages and Technologies I've Worked With
+- ♾️ Focused on **cloud infrastructure, automation, and distributed systems**
+- ☁️ Experience with **multi-cloud environments (AWS, Azure, GCP)**
+- 👁️ Strong interest in **observability, system failures, and reliability engineering**
+- ✨ Currently building a **resilience evaluation framework for microservices architectures**, using:
+  - Chaos Engineering principles  
+  - Distributed observability techniques  
+---
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
-## Let's Connect!
-Explore my projects, contributions, and follow my learning journey. Whether you're interested in collaborating, exchanging ideas, or simply having a chat, feel free to reach out. Let's grow together! 🚀
+<table align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CmilAmaya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<tr>
+<td><strong>☁️ Cloud</strong></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</td>
+</tr>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CmilAmaya&color=ff0077)
+<tr>
+<td><strong>🐳 Containers</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>💻 Systems</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Networking-Expertise-blue?style=for-the-badge"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>⚡ Automation</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>🔧 DevOps</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>💻 Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>🧩 Frameworks</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</td>
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CmilAmaya&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CmilAmaya&color=ff0077" />
+</p>
+
+---
+
+## 🤝 Let's Connect  
+
+Explore my repositories to see how I apply DevOps and SRE principles in real-world scenarios. I'm especially interested in:
+- Designing resilient systems  
+- Observability-driven development  
+- Chaos Engineering practices  
+- Cloud-native architectures  
+
+---
