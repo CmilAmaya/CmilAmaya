@@ -1,6 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&color=FFFFFF&lines=Welcome+to+my+profile+🌸;DevOps+Engineer+%7C+SRE;Observability;+Chaos+Engineering" />
-</h1>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&color=FFFFFF&lines=Welcome+to+my+profile+🌸;DevOps+Engineer+%7C+SRE;Observability;Chaos+Engineering"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&color=24292F&lines=Welcome+to+my+profile+🌸;DevOps+Engineer+%7C+SRE;Observability;Chaos+Engineering"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&color=24292F&lines=Welcome+to+my+profile+🌸;DevOps+Engineer+%7C+SRE;Observability;Chaos+Engineering"
+      alt="Typing SVG"
+    />
+  </picture>
+</p>
 
 ---
 
@@ -19,6 +32,10 @@ Hello, I'm Camila, a **DevOps Engineer** focused on building scalable, observabl
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
 
 <tr>
 <td><strong>☁️ Cloud</strong></td>
